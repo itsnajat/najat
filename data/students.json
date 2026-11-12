@@ -1,0 +1,92 @@
+[
+    {
+        "student_id": "STU003",
+        "full_name": "Adebisi olamide",
+        "class_form": "SS3",
+        "gender": "Male",
+        "date_of_birth": "26-08-2007",
+        "scores": {
+            "Mathematics": 75.0,
+            "English": 59.0,
+            "Biology": 69.0,
+            "Chemistry": 81.0,
+            "Physics": 73.0
+        },
+        "result_date": "09-11-2026"
+    },
+    {
+        "student_id": "STU001",
+        "full_name": "Sanusi Koyinsola",
+        "class_form": "SS3",
+        "gender": "Male",
+        "date_of_birth": "14-05-2007",
+        "scores": {
+            "Mathematics": 79.0,
+            "English": 81.0,
+            "Biology": 65.0,
+            "Chemistry": 79.0,
+            "Physics": 62.0
+        },
+        "result_date": "09-11-2026"
+    },
+    {
+        "student_id": "STU002",
+        "full_name": "Adejoke Najeebah",
+        "class_form": "SS3",
+        "gender": "Female",
+        "date_of_birth": "16-02-2009",
+        "scores": {
+            "Mathematics": 69.0,
+            "English": 85.0,
+            "Biology": 72.0,
+            "Chemistry": 61.0,
+            "Physics": 72.0
+        },
+        "result_date": "09-11-2026"
+    },
+    {
+        "student_id": "STU004",
+        "full_name": "Falana Funmbi",
+        "class_form": "SS3",
+        "gender": "Female",
+        "date_of_birth": "21-07-2007",
+        "scores": {
+            "Mathematics": 78.0,
+            "English": 81.0,
+            "Biology": 60.0,
+            "Chemistry": 59.0,
+            "Physics": 67.0
+        },
+        "result_date": "09-11-2026"
+    },
+    {
+        "student_id": "STU005",
+        "full_name": "Opeyemi Jubril",
+        "class_form": "SS3",
+        "gender": "Male",
+        "date_of_birth": "04-11-2001",
+        "scores": {
+            "Mathematics": 89.0,
+            "English": 75.0,
+            "Biology": 49.0,
+            "Chemistry": 56.0,
+            "Physics": 69.0
+        },
+        "result_date": "09-11-2026"
+    },
+    {
+        "student_id": "STU006",
+        "full_name": "owonikoko",
+        "class_form": "ss2",
+        "gender": "male",
+        "date_of_birth": "06-04-2008",
+        "scores": {
+            "Mathematics": 76.0,
+            "English": 62.0,
+            "Biology": 60.0,
+            "Chemistry": 73.0,
+            "Physics": 59.0
+        },
+        "result_date": "09-11-2026"
+    }
+]

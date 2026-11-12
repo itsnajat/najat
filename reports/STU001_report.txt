@@ -1,0 +1,18 @@
+STUDENT RESULT REPORT
+============================
+Student Name: Sanusi Koyinsola
+Student ID: STU001
+Class: SS3
+Gender: Male
+
+SUBJECT SCORES
+Mathematics: 79.0
+English: 81.0
+Biology: 65.0
+Chemistry: 79.0
+Physics: 62.0
+
+Total Score: 366.0
+Average Score: 73.20
+Overall Grade: A
+Result Date: 09-11-2026
